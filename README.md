@@ -95,7 +95,7 @@ This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) for
 ##  Contact
 
 * **Author**: Rishi Kora
-* **Email**: [rishi.kora@example.com](mailto:rishi.kora@example.com)
+* **Email**: [korarishi@gmail.com](mailto:rishi.kora@example.com)
 
 ---
 
