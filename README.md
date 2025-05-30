@@ -21,7 +21,7 @@
 
 A lightweight Python SDK providing easy-to-use abstractions and utilities to build intelligent agents on top of the OpenAI API.
 
-## 🚀 Features
+##  Features
 
 - **Agent Framework**: Quickly spin up LLM-based agents with customizable behaviors.
 - **Tool Integration**: Seamless wrappers for external tools (e.g., search, calculators).
@@ -29,7 +29,7 @@ A lightweight Python SDK providing easy-to-use abstractions and utilities to bui
 - **Asynchronous Support**: Fully async API for high-throughput applications.
 - **Extensible**: Plug in your own toolkits, memory stores, and workflows.
 
-## 📦 Installation
+##  Installation
 
 Install via PyPI:
 
@@ -45,7 +45,7 @@ cd OpenAI-Agents-SDK
 pip install -e .
 ```
 
-## 🧰 Quick Start
+##  Quick Start
 
 ```python
 from openai_agents_sdk import Agent, Tool
@@ -76,7 +76,7 @@ For a full tutorial and advanced examples, see [examples/](./examples) and the J
 * **Tutorials**: [https://github.com/Rishi-Kora/OpenAI-Agents-SDK/tree/main/docs](https://github.com/Rishi-Kora/OpenAI-Agents-SDK/tree/main/docs)
 * **Changelog**: See [Releases](https://github.com/Rishi-Kora/OpenAI-Agents-SDK/releases).
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please:
 
@@ -88,19 +88,16 @@ Contributions are welcome! Please:
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) for details.
 
-## 📫 Contact
+##  Contact
 
 * **Author**: Rishi Kora
 * **Email**: [rishi.kora@example.com](mailto:rishi.kora@example.com)
-* **Website**: [https://rishi-kora.dev](https://rishi-kora.dev)
 
 ---
 
 *Made with ❤️ and ☕ in London.*
 
-```
-```
